@@ -1,0 +1,26 @@
+{
+  "name": "Location-Tracker",
+  "version": "1.0.0",
+  "description": "Real time location tracker app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalSoloman/Location-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalSoloman/Location-Tracker/issues"
+  },
+  "homepage": "https://github.com/SalSoloman/Location-Tracker#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
