@@ -14,5 +14,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }, err => {
       console.error(err )
     }, positionOptions)
-  }, 1000)
+  }, 2000)
 })
